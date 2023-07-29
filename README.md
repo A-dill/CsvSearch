@@ -7,6 +7,7 @@ Assuming Date format is dd/mm/yyyy. Please ensure csv contains the same format a
 
 To use CsvSearch, navigate to the root folder of the project and execute the following command in the terminal:
 ```
+cd CsvSearch
 dotnet run ./file.csv 2 Alberto
 ```
 
